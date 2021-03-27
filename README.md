@@ -8,4 +8,5 @@
 5. 비슷한 코드를 이용하여 코드 만들기.
 6. #와이파이 필수임. 같은 공간 와이파이.
 7. 도시이름은 데이터베이스 이용.(엑셀 파일 데이터베이스로 변경하여 사용.)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/48404941/112720667-11d9cf80-8f43-11eb-92f7-50ea4b65a5fe.png)
+
